@@ -19,8 +19,10 @@ Database Integration: Utilizes a robust SQL database for storing and managing al
 ## Modules
 ### Models:
 
-Accounts 
+Account 
+
 Transaction
+
 User: Represent banking entities and manage interactions with the database.
 ### Services:
 

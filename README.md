@@ -23,7 +23,7 @@ Account
 
 Transaction
 
-User: Represent banking entities and manage interactions with the database.
+User
 ### Services:
 
 AccountService: Manages account-related operations.

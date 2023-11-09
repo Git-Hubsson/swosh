@@ -27,20 +27,29 @@ User
 ### Services:
 
 AccountService: Manages account-related operations.
+
 DatabaseManager: Handles database connections and configurations.
+
 PasswordManager: Provides secure password management.
+
 SwoshTableCreator: Initializes database tables.
+
 TransactionService: Handles all aspects of financial transactions.
+
 UserService: Facilitates user-related services.
 ### Views:
 
 AdminView: Interface for administrators with comprehensive system control.
+
 UserView: Interface for standard users focusing on personal banking operations.
 ### Main:
 
 The application's entry point, handling initial setup and user authentication.
 ## Getting Started
 Clone the repository.
+
 Ensure Java and SQL database setup.
+
 Run Main.java to start the application.
+
 Follow on-screen instructions to navigate through the system.

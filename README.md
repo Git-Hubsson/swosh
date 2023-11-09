@@ -11,7 +11,7 @@ Transaction Processing: Facilitate financial transactions between accounts and p
 
 Administrative Controls: Specialized administrative view for managing users, accounts, and viewing transaction logs.
 
-Security: Incorporates password hashing and verification for enhanced security.
+Security: Incorporates password hashing and verification for enhanced security. Also, to ensure the security and integrity of database interactions, the application extensively utilizes prepared statements. This practice is pivotal in preventing SQL injection attacks, thereby safeguarding sensitive user data and maintaining robust database security.
 
 Database Integration: Utilizes a robust SQL database for storing and managing all user, account, and transaction data.
 
